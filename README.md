@@ -7,4 +7,3 @@ Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira)
 Conecte-se comigo por:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira-exe/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanderleyOliveira)
