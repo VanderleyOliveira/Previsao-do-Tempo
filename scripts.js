@@ -14,13 +14,18 @@ async function buscarCidade(cidade) {
       cidade +
       '&appid=cebcd482eda57fa9a6714c1c2ba91885&units=metric',
   ).then((resposta) => resposta.json())
-
+  
+  colocarNaTela(dados)
+  
   // AWAIT = ESPERE
   // FETCH -> Ferramenta do JavaScript para acessar servidores
   // THEN -> ENTÃO
   // JSON -> JAVASCRIPT OBJECT NOTATION (O FORMATO QUE O JAVASCRIPT ENTENDE)
 
-  colocarNaTela(dados)
+  // Tratamento de API refatorada:
+  // let resposta = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=cebcd482eda57fa9a6714c1c2ba91885&units=metric`)
+  // let respostaEmDados = await resposta.json();
+  // colocarNaTela(respostaEmDados);
 }
 
 function cliqueiNoBotao() {
