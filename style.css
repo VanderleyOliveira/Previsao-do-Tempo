@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("https://img.freepik.com/fotos-gratis/fundo-natural-do-ceu-e-das-nuvens_661209-101.jpg?t=st=1727051821~exp=1727055421~hmac=684f7169ba88f2802d2a3a98c555961e53244b15d4272fa5d977e8fe918f6150&w=1380");
+    background-image: url(./assets/background.jpg);
     background-size: cover;
     height: 100vh; 
     width: 100vw; 
